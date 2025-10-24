@@ -1,0 +1,19 @@
+{
+  "name": "dievirtuellecouch/contao-legacy-accordion-image",
+  "description": "Adds image support to legacy 'Accordion Single' CE (accordionSingle) like in Contao 3.5",
+  "type": "contao-bundle",
+  "license": "proprietary",
+  "require": {
+    "php": ">=8.1",
+    "contao/core-bundle": "^5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Websailing\\AccordionImageBundle\\": "src/"
+    }
+  },
+  "extra": {
+    "contao-manager-plugin": "Websailing\\AccordionImageBundle\\ContaoManager\\Plugin"
+  }
+}
+
