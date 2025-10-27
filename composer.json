@@ -1,6 +1,6 @@
 {
   "name": "dievirtuellecouch/contao-legacy-accordion-image",
-  "description": "Adds image support to legacy 'Accordion Single' CE (accordionSingle) like in Contao 3.5",
+  "description": "Adds image support to Contao 5.3 legacy 'Accordion Single' CE (accordionSingle) like in Contao 3.5",
   "type": "contao-bundle",
   "license": "proprietary",
   "require": {
